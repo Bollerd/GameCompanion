@@ -1,0 +1,184 @@
+/* No comment provided by engineer. */
+"Add" = "Neu";
+
+/* No comment provided by engineer. */
+"Answer" = "Antwort";
+
+/* No comment provided by engineer. */
+"Calculate points" = "Punkte übernehmen";
+
+/* No comment provided by engineer. */
+"Character" = "Buchstabe";
+
+/* No comment provided by engineer. */
+"Clear answer" = "Antwort löschen";
+
+/* No comment provided by engineer. */
+"Current player" = "Aktueller Spieler";
+
+/* No comment provided by engineer. */
+"Enter name" = "Name eingeben";
+
+/* No comment provided by engineer. */
+"Enter question" = "Frage eingeben";
+
+/* No comment provided by engineer. */
+"Hello, this is test view!" = "";
+
+/* No comment provided by engineer. */
+"Looser is %@" = "Verlierer ist %@";
+
+/* No comment provided by engineer. */
+"Name:" = "Name:";
+
+/* No comment provided by engineer. */
+"Next player" = "Nächster Spieler";
+
+/* No comment provided by engineer. */
+"Next Player" = "Nächster Spieler";
+
+/* No comment provided by engineer. */
+"Player finished" = "Spieler fertig";
+
+/* No comment provided by engineer. */
+"Players" = "Spieler";
+
+/* No comment provided by engineer. */
+"Question" = "Frage";
+
+/* No comment provided by engineer. */
+"Question:" = "Frage:";
+
+/* No comment provided by engineer. */
+"Questions" = "Begriffe raten";
+
+/* No comment provided by engineer. */
+"Restart" = "Neustart";
+
+/* No comment provided by engineer. */
+"SLF" = "Begriffe raten";
+
+/* No comment provided by engineer. */
+"Whos next" = "Wer ist dran?";
+
+/* No comment provided by engineer. */
+"Winner is %@" = "Sieger ist %@";
+
+/* No comment provided by engineer. */
+"Game Companion" = "Spiele Begleiter";
+
+/* No comment provided by engineer. */
+"Settings" = "Einstellungen";
+
+/* No comment provided by engineer. */
+"Number of questions" = "Anzahl Fragen";
+
+/* No comment provided by engineer. */
+"Number of questions played" = "Anzahl Fragen pro Runde";
+
+/* No comment provided by engineer. */
+"Lifes" = "Leben";
+
+/* No comment provided by engineer. */
+"Number of questions played" = "Anzahl Fragen pro Runde";
+
+/* No comment provided by engineer. */
+"Number of lifes" = "Anzahl Leben";
+
+/* No comment provided by engineer. */
+"Number of questions played" = "Anzahl Fragen pro Runde";
+
+/* No comment provided by engineer. */
+"Number of lifes before player dies" = "Anzahl Fragen bevor Spieler ausscheidet";
+
+/* No comment provided by engineer. */
+"New Player" = "Neuer Spieler";
+
+/* No comment provided by engineer. */
+"New question" = "Neue Frage";
+
+/* No comment provided by engineer. */
+"Synchronize" = "Synchronisieren";
+
+/* No comment provided by engineer. */
+"Please enter your current points" = "Aktuelle Punkte eingeben";
+
+/* No comment provided by engineer. */
+"Points" = "Punkte";
+
+/* No comment provided by engineer. */
+"Next round" = "Nächste Runde";
+
+/* No comment provided by engineer. */
+"Finish game" = "Spiel beeenden";
+
+/* No comment provided by engineer. */
+"Player" = "Spieler";
+
+/* No comment provided by engineer. */
+"One" = "Eins";
+
+/* No comment provided by engineer. */
+"Two" = "Zwei";
+
+/* No comment provided by engineer. */
+"Three" = "Drei";
+
+/* No comment provided by engineer. */
+"Country"="Land";
+
+/* No comment provided by engineer. */
+"City"="Stadt";
+
+/* No comment provided by engineer. */
+"River"="Tier";
+
+/* No comment provided by engineer. */
+"Something green"="Etwas grünes";
+
+/* No comment provided by engineer. */
+"Something that can fly"="Etwas das fliegen kann";
+
+/* No comment provided by engineer. */
+"Something that makes noises"="Etwas das Geräusche macht";
+
+/* No comment provided by engineer. */
+"Something cold"="Mädchenname";
+
+"Dices"="Würfel";
+"Roll dices"="Würfeln";
+"Number of dices rolled"="Anzahl verwendeter Würfel";
+"Number of dices"="Anzahl Würfel";
+"Sides each dice"="Seiten pro Würfel";
+"Number of sides per dice"="Anzahl Seiten pro Würfel";
+"Last player can't be deleted! Add new one first."="Letzter Spieler kann nicht gelöscht werden! Erst einen neuen erfassen.";
+"Last question can't be deleted! Add new one first."="Letzte Frage kann nicht gelöscht werden! Erst eine neue erfassen.";
+"© Dirk Boller, September 2020-August 2023"="© Dirk Boller, September 2020-August 2023";
+
+"This round"="Diese Runde:";
+"Total before"="Gesamt bisher:";
+"Seconds to enter answer (0 = unlimited)"="Sekunden zur Antworteingabe (0 = unbegrenzt)";
+"Start Timer"="Starte Zeitnahme";
+"Number of seconds to enter an answer"="Sekunden um Antwort einzutragen";
+"Possible starting characters for questions"="Mögliche Anfangsbuchstaben für Fragen";
+"Chars allowed as starting char"="Buchstaben die als Anfang erlaubt sind";
+"Hit the target"="Triff die Zielscheibe";
+"Number of rows"="Anzahl Reihen";
+"Number of columns"="Anzahl Spalten";
+"Number of rounds"="Anzahl Spielrunden";
+"Number of rows for gameboard"="Anzahl Reihen für Spielfläche";
+"Number of columns for gameboard"="Anzahl Spalten für Spielfläche";
+"Number of rounds to play"="Anzahl Spielrunden pro Durchgang";
+"Maximum Time"="Maximale Zeit";
+"Minimum Time"="Minimale Zeit";
+"Min. seconds a target is displayed (eg. 0.5)"="Min. Sekunden für Ziel (z.B. 0.5)";
+"Max. seconds a target is displayed (eg. 2.5)"="Max. Sekunden für Ziel (z.B. 2.5)";
+"Credits"="Danksagung & App Einstellungen";
+"Dice and Card Icon of App Icon are designed by Freepik"="Das Würfel und Karten Symbol des  App Symbols sind entworfen von Freepik";
+"Possible Questions"="Verfügbare Fragen";
+"Treffer: %@"="Treffer: %@";
+"Plain Background Colors"="Einfache Hintergrundfarbe";
+"App Settings"="App Einstellungen";
+"Convert number"="Nummer umwandeln";
+"Change the current dice number to a different one"="Korrigiere die Würfelnummer in folgende Nummer";
+"All questions"="Alle Fragen";

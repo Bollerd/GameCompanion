@@ -1,0 +1,181 @@
+/* No comment provided by engineer. */
+"Add" = "Add";
+
+/* No comment provided by engineer. */
+"Answer" = ";";
+
+/* No comment provided by engineer. */
+"Calculate points" = "Count points";
+
+/* No comment provided by engineer. */
+"Character" = "Character";
+
+/* No comment provided by engineer. */
+"Clear answer" = "Clear answer";
+
+/* No comment provided by engineer. */
+"Current player" = "Current player";
+
+/* No comment provided by engineer. */
+"Enter name" = "Enter name";
+
+/* No comment provided by engineer. */
+"Enter question" = "Enter question";
+
+/* No comment provided by engineer. */
+"Looser is %@" = "Looser is %@";
+
+/* No comment provided by engineer. */
+"Name:" = "Name:";
+
+/* No comment provided by engineer. */
+"Next player" = "Next player";
+
+/* No comment provided by engineer. */
+"Next Player" = "Next Player";
+
+/* No comment provided by engineer. */
+"Player finished" = "Player finished";
+
+/* No comment provided by engineer. */
+"Players" = "Players";
+
+/* No comment provided by engineer. */
+"Question" = "Question";
+
+/* No comment provided by engineer. */
+"Question:" = "Question:";
+
+/* No comment provided by engineer. */
+"Questions" = "Guessing terms";
+
+/* No comment provided by engineer. */
+"Restart" = "Restart";
+
+/* No comment provided by engineer. */
+"SLF" = "Guessing terms";
+
+/* No comment provided by engineer. */
+"Whos next" = "Whos next?";
+
+/* No comment provided by engineer. */
+"Winner is %@" = "Winner is %@";
+
+/* No comment provided by engineer. */
+"Game Companion" = "Game Companion";
+
+/* No comment provided by engineer. */
+"Settings" = "Settings";
+
+/* No comment provided by engineer. */
+"Number of questions" = "Number of questions";
+
+/* No comment provided by engineer. */
+"Number of questions played" = "Number of questions played";
+
+/* No comment provided by engineer. */
+"Lifes" = "Lifes";
+
+/* No comment provided by engineer. */
+"Number of questions played" = "Number of questions played";
+
+/* No comment provided by engineer. */
+"Number of lifes" = "Number of lifes";
+
+/* No comment provided by engineer. */
+"Number of questions played" = "Number of questions played";
+
+/* No comment provided by engineer. */
+"Number of lifes before player dies" = "Number of lifes before player dies";
+
+/* No comment provided by engineer. */
+"New Player" = "New Player";
+
+/* No comment provided by engineer. */
+"New question" = "New question";
+
+/* No comment provided by engineer. */
+"Synchronize" = "Synchronize";
+
+/* No comment provided by engineer. */
+"Please enter your current points" = "Please enter your current points";
+
+/* No comment provided by engineer. */
+"Points" = "Points";
+
+/* No comment provided by engineer. */
+"Next round" = "Next round";
+
+/* No comment provided by engineer. */
+"Finish game" = "Finish game";
+
+/* No comment provided by engineer. */
+"Player" = "Player";
+
+/* No comment provided by engineer. */
+"One" = "One";
+
+/* No comment provided by engineer. */
+"Two" = "Two";
+
+/* No comment provided by engineer. */
+"Three" = "Three";
+
+/* No comment provided by engineer. */
+"Country"="Country";
+
+/* No comment provided by engineer. */
+"City"="City";
+
+/* No comment provided by engineer. */
+"River"="Animal";
+
+/* No comment provided by engineer. */
+"Something green"="Something green";
+
+/* No comment provided by engineer. */
+"Something that can fly"="Something that can fly";
+
+/* No comment provided by engineer. */
+"Something that makes noises"="Something that makes noises";
+
+/* No comment provided by engineer. */
+"Something cold"="Girl's name";
+
+"Dices"="Dices";
+"Roll dices"="Roll dices";
+"Number of dices rolled"="Number of dices rolled";
+"Number of dices"="Number of dices";
+"Sides each dice"="Sides each dice";
+"Number of sides per dice"="Number of sides per dice";
+"Last player can't be deleted! Add new one first."="Last player can't be deleted! Add new one first.";
+"Last question can't be deleted! Add new one first."="Last question can't be deleted! Add new one first.";
+"© Dirk Boller, September 2020-August 2023"="© Dirk Boller, September 2020-August 2023";
+
+"This round"="This round:";
+"Total before"="Total before:";
+"Seconds to enter answer (0 = unlimited)"="Seconds to enter answer (0 = unlimited)";
+"Start Timer"="Start Timer";
+"Number of seconds to enter an answer"="Number of seconds to enter an answer";
+"Possible starting characters for questions"="Possible starting characters for questions";
+"Chars allowed as starting char"="Chars allowed as starting char";
+"Hit the target"="Hit the target";
+"Number of rows"="Number of rows";
+"Number of columns"="Number of columns";
+"Number of rounds"="Number of rounds";
+"Number of rows for gameboard"="Number of rows for gameboard";
+"Number of columns for gameboard"="Number of columns for gameboard";
+"Number of rounds to play"="Number of rounds to play";
+"Maximum Time"="Maximum Time";
+"Minimum Time"="Minimum Time";
+"Min. seconds a target is displayed (eg. 0.5)"="Min. seconds a target is displayed (eg. 0.5)";
+"Max. seconds a target is displayed (eg. 2.5)"="Max. seconds a target is displayed (eg. 2.5)";
+"Credits"="Credits & App Settings";
+"Dice and Card Icon of App Icon are designed by Freepik"="Dice and Card Icon of App Icon are designed by Freepik";
+"Possible Questions"="Possible Questions";
+"Treffer: %@"="Hits: %@";
+"Plain Background Colors"="Plain Background Colors";
+"App Settings"="App Settings";
+"Convert number"="Convert number";
+"Change the current dice number to a different one"="Change the current dice number to a different one";
+"All questions"="All questions";
